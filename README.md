@@ -2,7 +2,7 @@
 ## Embedded System Course by Emertex
 
 <details><summary> Module 1 </summary> 
-[<B> Linux Systems </B>
+[Linux Systems]()
 </details>
 <details><summary> Module 2 </summary> 
 <B> Advanced C </B>
