@@ -1,8 +1,8 @@
 # ECEP
 ## Embedded System Course by Emertex
 
-<details><summary> Module 1 </summary> 
-<a href="https://github.com/RanitPradhan/ECEP/blob/master/Modules/Module-1.md"><B>Linux Systems</B></a>
+<details><summary> Module 1 </summary>
+<a href="https://github.com/RanitPradhan/ECEP/blob/master/Modules/Module-1.md"><B><align="left"> Linux Systems</B></a>
 </details>
 <details><summary> Module 2 </summary> 
 <B> Advanced C </B>
