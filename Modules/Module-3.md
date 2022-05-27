@@ -1,4 +1,4 @@
-# Module - 2
+# Module - 3
 ## Data structures and Logic analysis
 > <B> Topics </B>
 - Introduction to Data Structures & Algorithm Analysis
