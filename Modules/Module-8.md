@@ -7,4 +7,4 @@
 - Painting, Multimedia and Animations using QT
 - Design Patterns, Multi-threading in QT
 - Introduction to Qt Quick and Composing UI
-- Integrating QML with C++
+- Integrating QML with C++ 
